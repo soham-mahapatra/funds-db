@@ -1,0 +1,20 @@
+{
+  "funds": [
+    {
+      "title": "Nippon India Index Fund",
+      "id" : "nippon-india-index-fund-nifty-plan-direct-growth"
+    },
+    {
+      "title": "ICICI Prudential Nifty Next 50 Index",
+      "id" : "icici-prudential-nifty-next-50-index-fund-direct-growth"
+    },
+    {
+      "title": "SBI Bluechip Direct Plan Growth",
+      "id" : "sbi-bluechip-fund-direct-growth"
+    },
+    {
+      "title": "HDFC Top 100 Fund",
+      "id" : "hdfc-top-200-direct-growth"
+    }
+  ]
+}
