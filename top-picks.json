@@ -2,11 +2,13 @@
     "funds": [
         {
             "title": "SBI Bluechip Direct Plan Growth",
-            "id": "sbi-bluechip-fund-direct-growth"
+            "id": "sbi-bluechip-fund-direct-growth",
+            "returns1y" : 23.25
         },
         {
             "title": "HDFC Top 100 Fund",
-            "id": "hdfc-top-200-direct-growth"
+            "id": "hdfc-top-200-direct-growth",
+            "returns1y" : 41.96
         }
     ]
 }
