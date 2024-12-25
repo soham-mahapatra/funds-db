@@ -3,12 +3,14 @@
         {
             "title": "SBI Bluechip Direct Plan Growth",
             "id": "sbi-bluechip-fund-direct-growth",
-            "returns1y" : 23.25
+            "returns1y" : 23.25,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/sbi_groww.png"
         },
         {
             "title": "HDFC Top 100 Fund",
             "id": "hdfc-top-200-direct-growth",
-            "returns1y" : 41.96
+            "returns1y" : 41.96,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png"
         }
     ]
 }
