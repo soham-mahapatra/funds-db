@@ -1,16 +1,28 @@
 {
     "funds": [
         {
-            "title": "SBI Bluechip Direct Plan Growth",
-            "id": "sbi-bluechip-fund-direct-growth",
-            "returns1y" : 23.25,
-            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/sbi_groww.png"
+            "title": "Motilal Oswal Midcap Fund",
+            "id": "motilal-oswal-most-focused-midcap-30-fund-direct-growth",
+            "returns1y" : 56.7,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/motilal_groww.png"
         },
         {
-            "title": "HDFC Top 100 Fund",
-            "id": "hdfc-top-200-direct-growth",
-            "returns1y" : 41.96,
-            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png"
+            "title": "ICICI Prudential Infrastructure",
+            "id": "icici-prudential-infrastructure-fund-direct-growth",
+            "returns1y" : 30.25,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/icici_groww.png"
+        },
+        {
+            "title": "LIC MF Infrastructure Fund",
+            "id": "lic-mf-infrastructure-fund-direct-growth",
+            "returns1y" : 51.61,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/lic_groww.png"
+        },
+        {
+            "title": "Bandhan Small Cap Fund",
+            "id": "bandhan-small-cap-fund-direct-growth",
+            "returns1y" : 46.53,
+            "image" : "https://assets-netstorage.groww.in/mf-assets/logos/idfc_groww.png"
         }
     ]
 }
